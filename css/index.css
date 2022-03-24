@@ -1,16 +1,16 @@
 h1 {
-	font-size: 3.6rem;
+    font-size: 3.6rem;
 }
 
 h2 {
-	margin: 0;
+    margin: 0;
 }
 
 #main {
-	height: 100vh;
+    height: 100vh;
 }
 
 #footer-bg {
-	background-color: lightblue;
-	height: 100px;
+    background-color: lightblue;
+    height: 100px;
 }

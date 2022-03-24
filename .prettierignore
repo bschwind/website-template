@@ -1,0 +1,9 @@
+# Ignore everything...
+/*
+js/libs/
+
+# Except these things
+!js/
+!css/
+!*.json
+!*.html
